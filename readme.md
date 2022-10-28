@@ -1,4 +1,4 @@
-
+## Project Moved To [New Repo](https://github.com/nimmadev/InstGram-Mass-Report)
 # InstaGram Mass Report
 
 this project will help you to mass report a account so instagram can be a safe and clean.
